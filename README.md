@@ -1,7 +1,7 @@
 # The Fish Who Discovered Water ~ Dive into Generative Art ~ 
 ZINE『水を発見した魚：ジェネラティブ・アートを泳ぐ』の全文を公開しました（挿絵や奥付の一部は除く）。  
 
-<img src="./main/_images//表紙.png" width="600px">
+<img src="./main/_images//表紙.png" width="350px">
 
 ## タイトル
 『水を発見した魚： ジェネラティブ・アートを泳ぐ』
