@@ -3,7 +3,8 @@
 パウル・クレー (2016) 『造形思考(下)』土方定一・菊盛英夫・坂崎乙郎 訳 筑摩書房
 >
 
-![Toward / Against Harmony = Harmony](../../works/Toward%20Against%20Harmony%20Harmony.png). 
+![Toward / Against Harmony = Harmony](). 
+<img src="../../works/Toward%20Against%20Harmony%20Harmony.png" width="600px" >
 
 　調和は、状態ではなく運動である。  
 　生物学者の福岡伸一は、「動的平衡」という考えに立脚し、生命の本質が分子の不断の「流れ」にあることを主張した。エントロピーの増大に抗って成立する生命という奇跡的な秩序は、その場に留まることなく動き続けることによってしか、その高度なバランスを保つことはできないのだ。  
