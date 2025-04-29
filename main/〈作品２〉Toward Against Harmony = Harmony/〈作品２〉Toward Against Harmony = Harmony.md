@@ -1,4 +1,4 @@
-## 〈作品２〉Toward Against Harmony = Harmony
+## 〈作品２〉Toward / Against Harmony = Harmony
 >全体的な均衡をもつ最後の限界は、灰色であろう。これは生命のない調和である。  
 パウル・クレー (2016) 『造形思考(下)』土方定一・菊盛英夫・坂崎乙郎 訳 筑摩書房
 >
